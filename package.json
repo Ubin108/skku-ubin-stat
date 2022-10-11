@@ -1,0 +1,25 @@
+{
+  "name": "skku-ubin-stat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ubin108/skku-ubin-stat.git"
+  },
+  "bin": {
+    "skku-ubin-stat": "./main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ubin108/skku-ubin-stat/issues"
+  },
+  "homepage": "https://github.com/Ubin108/skku-ubin-stat#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
